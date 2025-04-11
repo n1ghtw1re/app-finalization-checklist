@@ -12,7 +12,7 @@ The "App Finalization Prompt" aims to ensure that your application meets high st
 * **Adaptable for No-Code and AI Projects:** While initially designed with AI-generated projects in mind, the prompt is versatile enough to be effectively used for projects built with no-code platforms as well. It encourages critical thinking about the underlying logic and user flow, regardless of the development method.
 * **Actionable Feedback:** The prompt is structured to elicit detailed reports with specific and actionable recommendations for improvement.
 * **Customizable:** Users can easily adapt the prompt by adding project-specific details, concerns, and desired output formats.
-* **Tested with Specific Tools:** This prompt has been tested and optimized for use with AI tools like [Lovable.dev](https://lovable.dev/) and [Bolt.new](https://bolt.new/) (mention these with actual links if available and correct).
+* **Tested with Specific Tools:** This prompt has been tested and optimized for use with AI tools like [Lovable.dev](https://lovable.dev/) and [Bolt.new](https://bolt.new/)
 
 **How to Use:**
 
